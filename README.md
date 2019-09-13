@@ -5,4 +5,4 @@ There is a growing trend among software vendors to develop applications based up
 
 ## Day-1 13-09-2019
 1. Creating a project name with application name in GitHub
-2. testing wether the changes are beein occured in GitHub which are Direct;y changed from Eclipse are done or Not.
+2. testing wether the changes are beein occured in GitHub which are Directly changed from Eclipse are done or Not.
